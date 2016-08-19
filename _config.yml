@@ -1,0 +1,14 @@
+layout_spectrum: 0.4058159114792943
+typography_spectrum: 0.7841069921851158
+color:
+  brandStrength: 0.49582022591494024
+  lightness: 0.8339519458822906
+  saturation: 0.049343308666720986
+  rhythmicContrast: 0.6793621671386063
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: GVLnetworks
