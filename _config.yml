@@ -6,9 +6,9 @@ color:
   saturation: 0.049343308666720986
   rhythmicContrast: 0.6793621671386063
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: GVLnetworks
