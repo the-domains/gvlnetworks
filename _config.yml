@@ -12,3 +12,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: GVLnetworks
+navigation:
+  - name: Test
+    id: 33e76f84-e22b-4cd6-bf30-8e4b9d47fe1d
+    type: content
